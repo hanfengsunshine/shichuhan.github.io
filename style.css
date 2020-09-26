@@ -518,7 +518,8 @@ footer {
     }
 
     header {
-        padding-right: 200px
+/*         padding-right: 200px */
+        margin: 0
     }
 
     section {
