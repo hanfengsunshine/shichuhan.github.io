@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+## Introduction
 
-You can use the [editor on GitHub](https://github.com/shichuhan/shichuhan.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I am a PhD candidate from Human Computer Interaction Intiative at The Hong Kong University of Science and Technology, supervised by [Prof. Qiong Luo](https://www.cse.ust.hk/~luo/) and [Prof. Xiaojuan Ma](https://www.cse.ust.hk/~mxj/). Before joining HKUST, I attained my Bachelor degree in Software engineering at Shandong University in 2019.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
