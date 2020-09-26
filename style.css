@@ -354,7 +354,7 @@ a:hover, a:focus {
 }
 
 a small {
-    font-size: 15px;
+    font-size: 18px;
     color: #777;
     margin-top: -0.3em;
     display: block
@@ -365,7 +365,7 @@ a:hover small {
 }
 
 .wrapper {
-    width: 860px;
+    width: 880px;
     margin: 0 auto
 }
 
@@ -414,7 +414,7 @@ img {
 }
 
 header {
-    width: 270px;
+    width: 290px;
     float: left;
     position: fixed;
     -webkit-font-smoothing: subpixel-antialiased
